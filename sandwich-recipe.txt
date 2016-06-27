@@ -1,0 +1,15 @@
+Ingredients:
+- bread
+- butter
+- cucumber
+- potato
+- tomato
+- cheese
+- ketchup
+
+Directions:
+- Apply butter and ketchup on two pieces of bread
+- Cut the vegetables
+- Put the vegetables between the bread
+- Grate cheese on top of bread
+- Eat!
